@@ -10,4 +10,6 @@
   <li>Enter 7, 2, bob, 10, and 4 and match the output below</li>
 </ul>
 
-<p>Goal: remeber the <b>maximum</b> and <b>minimum</b> numbers. Every time user enters the number it is remembered by the program.</p>
+<h3>Goals:</h3> 
+
+<p>remeber the <b>maximum</b> and <b>minimum</b> numbers. Every time user enters the number it is remembered by the program.</p>
