@@ -11,5 +11,7 @@
 </ul>
 
 <h3>Goals:</h3> 
-
-<p>remeber the <b>maximum</b> and <b>minimum</b> numbers. Every time user enters the number it is remembered by the program.</p>
+<p>:white_check_mark: Remember all the values user enters the number it is remembered by the program.
+:white_check_mark: Figure out and record to memory the <b>maximum</b> and <b>minimum</b> numbers.
+:white_check_mark: Error validation for anything that is not a number entered by the user.
+</p>
