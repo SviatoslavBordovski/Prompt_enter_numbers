@@ -16,3 +16,4 @@
 <p>:white_check_mark: Figure out and record to memory the <b>maximum</b> and <b>minimum</b> numbers.</p>
 <br>
 <p>:white_check_mark: Error validation for anything that is not a number entered by the user.</p>
+:heavy_check_mark:
