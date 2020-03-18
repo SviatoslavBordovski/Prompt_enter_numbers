@@ -9,8 +9,9 @@
   <li>if the user enters anything other than a valid number catch it with a try/except and put out an appropriate message and     ignore the number</li>
   <li>Enter 7, 2, bob, 10, and 4 and match the output below</li>
 </ul>
-<hr>
+
 <h3>Goals:</h3> 
+<br>
 <p>:heavy_check_mark: Remember all the values user enters the number it is remembered by the program.</p>
 <br>
 <p>:heavy_check_mark: Figure out and record to memory the <b>maximum</b> and <b>minimum</b> numbers.</p>
