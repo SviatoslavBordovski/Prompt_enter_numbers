@@ -10,6 +10,13 @@
   <li>Enter 7, 2, bob, 10, and 4 and match the output below</li>
 </ul>
 
+<div align="center">
+
+<a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
+            <img alt="headless-browser" src="https://miro.medium.com/max/3440/0*WHo7bG8yHKyt_nzn.png" width="320" height="180" margin="15px" hspace="30"></a>
+            
+</div>
+
 <h3>Goals:</h3> 
 <br>
 <p>:heavy_check_mark: Remember all the values user enters the number it is remembered by the program.</p>
