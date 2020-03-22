@@ -13,7 +13,7 @@
 <div align="center">
 
 <a href="https://github.com/SviatoslavBordovski/Headless_Browsers_Automation">
-            <img alt="headless-browser" src="https://djangocentral.com/wp-content/uploads/2019/05/New-Project-1-780x405.png" width="640" height="320" margin="15px" hspace="30"></a>
+            <img alt="headless-browser" src="https://djangocentral.com/wp-content/uploads/2019/05/New-Project-1-780x405.png" width="640" height="320" margin="15px"></a>
             
 </div>
 
