@@ -1,6 +1,6 @@
 <h1>Prompt enter numbers</h1>
 <br>
-<p>Long story short: <b>program</p> that repeatedly prompts a user for integer numbers until the user enters 'done'.</p>
+<p>Long story short: <b>program</b> that repeatedly prompts a user for integer numbers until the user enters <i>done</i>.</p>
 
 <h2>Program workflow is:</h2>
 
