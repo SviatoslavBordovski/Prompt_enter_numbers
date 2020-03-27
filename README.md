@@ -20,9 +20,7 @@
 <h3>Goals:</h3> 
 <br>
 <p>:heavy_check_mark: Remember all the values user enters the number it is remembered by the program.</p>
-<br>
 <p>:heavy_check_mark: Figure out and record to memory the <b>maximum</b> and <b>minimum</b> numbers.</p>
-<br>
 <p>:heavy_check_mark: Error validation for anything that is not a number entered by the user.</p>
 <br>
 <p style="color:red">There is no GUI for this program, so it could be runned in the <b>terminal</b> only.</p>
