@@ -5,7 +5,7 @@
 <h2>Program workflow is:</h2>
 
 <ul>
-  <li>Once 'done' is entered in the terminal, print out the largest and smallest of the numbers</li>
+  <li>Once 'done' is entered in the terminal, python is printing out the largest and smallest of the numbers</li>
   <li>When user enters anything other than a valid number catch it with a try/except and put out an appropriate message and     ignore the number</li>
   <li>Enter 7, 2, bob, 10, and 4 and match the output below</li>
 </ul>
