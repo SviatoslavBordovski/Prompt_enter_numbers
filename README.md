@@ -1,7 +1,4 @@
 <html>
-  <head>
-    <title></title>
-  </head>  
 <body>
 <h1>Prompt enter numbers</h1>
 <br>
