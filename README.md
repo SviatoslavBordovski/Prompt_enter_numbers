@@ -1,3 +1,4 @@
+<html>
 <h1>Prompt enter numbers</h1>
 <br>
 <p>Long story short: <b>program</b> that repeatedly prompts a user for integer numbers until the user enters <i>done</i>.</p>
@@ -24,3 +25,4 @@
 <p>:heavy_check_mark: Error validation for anything that is not a number entered by the user.</p>
 <br>
 <p>There is no GUI for this program, so it could be runned in the <b>terminal</b> only.</p>
+</html>
