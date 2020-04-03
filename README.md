@@ -1,5 +1,6 @@
 <html>
 <body>
+
 <h1>Prompt enter numbers</h1>
 <br>
 <p>Long story short: <b>program</b> that repeatedly prompts a user for integer numbers until the user enters <i>done</i>.</p>
